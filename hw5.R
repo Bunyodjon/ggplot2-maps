@@ -1,10 +1,11 @@
-# Homework 5 
+# Date: 10/21/2018
 # Author: Bunyod 
-
+# initial part of the code is given by Dr. Maurer
 
 library(tidyverse)
 library(readxl)
 # setwd("")
+
 
 ## USDA Food Environment Atlas
 
